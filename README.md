@@ -9,4 +9,4 @@ My Optimization project inlcudes simulation solution
 My statitical projects include multiple linear regression, exhaustive feature selection and hypothesis testing.
 
 
-please feel free to look into the ipython and Rmd files above to see my projects. 
+please feel free to look into the ipython and Rmd files above to see my projects. I will be keep adding more projects in this repository
