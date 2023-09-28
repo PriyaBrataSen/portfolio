@@ -10,3 +10,4 @@ My statitical projects include multiple linear regression, exhaustive feature se
 
 
 please feel free to look into the ipython and Rmd files above to see my projects. I will keep adding more projects in this repository.
+thank you
